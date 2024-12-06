@@ -1,0 +1,52 @@
+Item Name,Item Type,Rarity ,Item Stats,Special Effects
+Ancient Wooden Sword,Weapon ,Common,Attack: 10,None
+Shattered Dagger of the Forgotten,Weapon ,Common,Attack: 8,None
+Frost-Bitten War Hammer,Weapon ,Common,Attack: 12,None
+Spear of the Broken Dawn,Weapon ,Common,Attack: 8,None
+Oakwood Staff of the seer ,Weapon ,Common,Attack: 11,None
+Rustic Iron Sword,Weapon ,Uncommon,Attack: 14,None
+Dagger of the Cursed Soul,Weapon ,Uncommon,Attack: 10,None
+Warhammer of the Forsaken,Weapon ,Uncommon,Attack: 17,None
+Iron-tipped Spear,Weapon ,Uncommon,Attack: 13,None
+Mystic Twig,Weapon ,Uncommon,Attack: 18,None
+Stormiron Sword,Weapon ,Rare,Attack: 24,None
+Dagger of the Viper's Bite,Weapon ,Rare,Attack: 21,None
+Rockshatter Hammer,Weapon ,Rare,Attack: 27,None
+Stormpiercer,Weapon ,Rare,Attack: 23,None
+Elderwood Staff,Weapon ,Rare,Attack: 24,None
+Ironfang Blade,Weapon ,Epic,Attack: 30,Lighting Strike (10%) +5
+Dagger of the Twilight Shadow,Weapon ,Epic,Attack: 28,Sneak damage X2
+Warhammer of the Eternal Flame,Weapon ,Epic,Attack: 32,Burn (15%)
+Spear of the Shattered Moon,Weapon ,Epic,Attack: 31,Damage: +5
+Staff of the Starforged,Weapon ,Epic,Attack: 29,Heal's 2 HP per hit
+Excalibur,Weapon ,Legendary,Attack: 40,Damage: +55 (40%)
+"Assassin's Fang, Blade of the Darkened Soul",Weapon ,Legendary,Attack: 38,Soul Drain (45%) +20 hp
+"Mjolnir, Hammer of the Gods",Weapon ,Legendary,Attack: 43,Lighting Strike (80%) +20
+Exiled Spear of the Void King,Weapon ,Legendary,Attack: 39,enemy's attack miss (50%) 
+Staff of the Divine Radiance,Weapon ,Legendary,Attack: 41,Heal's 10 HP per hit/ (40%)+15
+Soldier's Helm,Armor,Common,Defense: +2,None
+Traveler's Vest,Armor,Common,Defense: +2,None
+Traveler's Footwear,Armor,Common,Defense: +2,None
+Sturdy Armguard,Armor,Common,Defense: +2,None
+Ironhelm,Armor,Uncommon,Defense: +4,None
+Leather Tunic,Armor,Uncommon,Defense: +4,None
+Boots of the Pathfinder,Armor,Uncommon,Defense: +4,None
+Iron-Studded Bracer,Armor,Uncommon,Defense: +4,None
+Helm of the Valiant Wrrior,Armor,Rare,Defense: +6,None
+Steelplate Chestguard,Armor,Rare,Defense: +6,None
+Hunter's Boot,Armor,Rare,Defense: +6,None
+Vanguard Bracers,Armor,Rare,Defense: +6,None
+Helm of the Eternal Champion,Armor,Epic,Defense: +10,Damage: +5
+Chestguard of the celestial Knight,Armor,Epic,Defense: +10,Block(10%)
+Boots of the Swiftfoot,Armor,Epic,Defense: +10,Dodge(20%)
+Bracers of the Dawnlight,Armor,Epic,Defense: +10,Damage: +8
+Crown of the Ancient Kings,Armor,Legendary,Defense: +15,Boost attack: (10%)
+Cuirass of the Dragon King,Armor,Legendary,Defense: +15,Burns enemies: 10 hp per attack
+Astral Footwear of the Godslayer,Armor,Legendary,Defense: +15,Stun: (40%)
+Armguards of the Phoenix's Embrace,Armor,Legendary,Defense: +15,1 revive per battle with 50% hp
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
