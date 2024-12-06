@@ -399,7 +399,7 @@ public class DungeonExplorer {
 
     // Helper method to load items from a CSV
     private static void loadItemsFromCSV() {
-        try (BufferedReader br = new BufferedReader(new FileReader("chest.csv"))) {
+        try (BufferedReader br = new BufferedReader(new FileReader("Chest.csv"))) {
             String line;
             while ((line = br.readLine()) != null) {
                 if (line.startsWith("Item Name")) {
